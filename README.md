@@ -1,28 +1,36 @@
-#  SmartTrafficAI
+# SmartTrafficAI
 
 An AI-powered Smart Traffic Prediction and Congestion Analysis System built using **React**, **FastAPI**, **Python**, and **Machine Learning**. The project predicts traffic congestion levels and provides interactive visualizations to support intelligent traffic management.
 
+## Live Demo
+
+**Frontend:**
+https://smart-traffic-ai-sigma.vercel.app
+
+**Backend API:**
+https://smarttrafficai.onrender.com
+
 ## Features
 
--  Traffic congestion prediction using Machine Learning
--  Interactive dashboard with analytics
--  Traffic charts and visualizations
--  Hotspot mapping
--  GPS monitoring
--  Public transport insights
--  FastAPI backend with React frontend
+* Traffic congestion prediction using Machine Learning
+* Interactive dashboard with analytics
+* Traffic charts and visualizations
+* Hotspot mapping
+* GPS monitoring
+* Public transport insights
+* FastAPI backend with React frontend
 
 ## Tech Stack
 
-- Frontend: React, Tailwind CSS, Axios
-- Backend: FastAPI, Python
-- Machine Learning: Scikit-learn, Joblib
-- Visualization: Chart.js
-- Dataset: IEEE DataPort Urban Traffic Dataset
+* Frontend: React, Tailwind CSS, Axios
+* Backend: FastAPI, Python
+* Machine Learning: Scikit-learn, Joblib
+* Visualization: Chart.js
+* Dataset: IEEE DataPort Urban Traffic Dataset
 
 ## Project Structure
 
-```
+```text
 SmartTrafficAI/
 ├── backend/
 ├── frontend/
@@ -53,22 +61,22 @@ npm run dev
 
 This project was developed using the following official documentation and publicly available resources:
 
-- **IEEE DataPort – Urban Traffic Dataset**  
+* **IEEE DataPort – Urban Traffic Dataset**
   https://ieee-dataport.org/
 
-- **Scikit-learn Documentation**  
+* **Scikit-learn Documentation**
   https://scikit-learn.org/stable/
 
-- **FastAPI Documentation**  
+* **FastAPI Documentation**
   https://fastapi.tiangolo.com/
 
-- **React Documentation**  
+* **React Documentation**
   https://react.dev/
 
-- **Joblib Documentation**  
+* **Joblib Documentation**
   https://joblib.readthedocs.io/
 
-- **Axios Documentation**  
+* **Axios Documentation**
   https://axios-http.com/
 
 ## Acknowledgement
